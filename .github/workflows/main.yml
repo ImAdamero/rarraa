@@ -10,10 +10,13 @@ jobs:
         with:
           java-version: '25'
           distribution: 'microsoft'
+      - uses: gradle/actions/setup-gradle@v6
+        with:
+          gradle-version: '9.8.2'
+      - name: pliki w repo
+        run: ls -a
       - name: build
-        run: |
-          chmod +x ./gradlew
-          ./gradlew build
+        run: gradle build
       - uses: actions/upload-artifact@v7
         with:
           name: Artifacts
