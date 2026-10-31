@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "easybot",
+  "version": "1.0.0",
+  "name": "EasyBot",
+  "description": "Bot wchodzacy na serwer z wybranym nickiem. Menu pod X, podglad konsoli bota.",
+  "authors": [
+    "xSlodziaczekk"
+  ],
+  "license": "MIT",
+  "icon": "assets/easybot/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "pl.easybot.EasyBotClient",
+      "pl.easybot.ErrorsClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

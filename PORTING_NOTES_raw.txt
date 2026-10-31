@@ -1,0 +1,27 @@
+classes used 174 refs 426
+MISSING CLASSES 0
+MISSING MEMBERS 11
+  ('net/minecraft/class_2649', 'method_11440', '()I')
+  ('net/minecraft/class_2649', 'method_11441', '()Ljava/util/List;')
+  ('net/minecraft/class_2649', 'method_37437', '()Lnet/minecraft/class_1799;')
+  ('net/minecraft/class_2649', 'method_37438', '()I')
+  ('net/minecraft/class_2743', 'method_11815', '()D')
+  ('net/minecraft/class_2743', 'method_11816', '()D')
+  ('net/minecraft/class_2743', 'method_11819', '()D')
+  ('net/minecraft/class_2520', 'method_10714', '()Ljava/lang/String;')
+  ('net/minecraft/class_6489', 'method_48017', '(Lnet/minecraft/class_3264;)I')
+  ('net/minecraft/class_6489', 'method_48018', '()Ljava/lang/String;')
+  ('net/minecraft/class_6489', 'method_48019', '()Ljava/lang/String;')
+DESC CHANGED 12
+  ('net/minecraft/class_304', 'method_1417', '(II)Z', ['(Lnet/minecraft/class_11908;)Z'])
+  ('net/minecraft/class_332', 'method_51430', '(Lnet/minecraft/class_327;Lnet/minecraft/class_5481;IIIZ)I', ['(Lnet/minecraft/class_327;Lnet/minecraft/class_5481;IIIZ)V'])
+  ('net/minecraft/class_332', 'method_51433', '(Lnet/minecraft/class_327;Ljava/lang/String;IIIZ)I', ['(Lnet/minecraft/class_327;Ljava/lang/String;IIIZ)V'])
+  ('net/minecraft/class_332', 'method_51439', '(Lnet/minecraft/class_327;Lnet/minecraft/class_2561;IIIZ)I', ['(Lnet/minecraft/class_327;Lnet/minecraft/class_2561;IIIZ)V'])
+  ('net/minecraft/class_332', 'method_51448', '()Lnet/minecraft/class_4587;', ['()Lorg/joml/Matrix3x2fStack;'])
+  ('net/minecraft/class_3532', 'method_15362', '(F)F', ['(D)F'])
+  ('net/minecraft/class_3532', 'method_15374', '(F)F', ['(D)F'])
+  ('net/minecraft/class_437', 'method_25402', '(DDI)Z', ['(Lnet/minecraft/class_11909;Z)Z'])
+  ('net/minecraft/class_437', 'method_25403', '(DDIDD)Z', ['(Lnet/minecraft/class_11909;DD)Z'])
+  ('net/minecraft/class_437', 'method_25404', '(III)Z', ['(Lnet/minecraft/class_11908;)Z'])
+  ('net/minecraft/class_437', 'method_25406', '(DDI)Z', ['(Lnet/minecraft/class_11909;)Z'])
+  ('net/minecraft/class_5900$class_5902', 'method_34186', '()Ljava/lang/String;', ['()Lnet/minecraft/class_270$class_271;'])
